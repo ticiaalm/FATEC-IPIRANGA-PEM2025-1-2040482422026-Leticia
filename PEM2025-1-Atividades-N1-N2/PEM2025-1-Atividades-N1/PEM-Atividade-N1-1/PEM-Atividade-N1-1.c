@@ -6,7 +6,7 @@
 * Objetivo do Programa: Criar um programa em C que       *
 * processe e classifique candidatos à residência médica, *
 * calculando a nota final e exibindo os 15 melhores.     *
-* Data - 28/02/2025                                      * 
+* Data - 28/02/2025                                      *
 * Autor: Letícia Almeida Silva                           *
 *--------------------------------------------------------*/
 
