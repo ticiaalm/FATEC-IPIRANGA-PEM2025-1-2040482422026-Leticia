@@ -41,24 +41,24 @@ int main () {
             break;
         }
 
-        printf("Digite o nome do candidato %d: ", candidatos + 1);
+        printf ("Digite o nome do candidato %d: ", candidatos + 1);
         scanf (" %[^\n]", nomes[candidatos]); 
 
-        printf("Digite as 4 notas da prova PE: ");
+        printf ("Digite as 4 notas da prova PE: ");
         for (int j = 0; j < 4; j++) {
             scanf("%f", &PE[candidatos][j]);
         }
-        printf("Digite as 5 notas da prova AC: ");
+        printf ("Digite as 5 notas da prova AC: ");
         for (int j = 0; j < 5; j++) {
-            scanf("%f", &AC[candidatos][j]);
+            scanf ("%f", &AC[candidatos][j]);
         }
-        printf("Digite as 10 notas da prova PP: ");
+        printf ("Digite as 10 notas da prova PP: ");
         for (int j = 0; j < 10; j++) {
-            scanf("%f", &PP[candidatos][j]);
+            scanf ("%f", &PP[candidatos][j]);
         }
-        printf("Digite as 3 notas da prova EB: ");
+        printf ("Digite as 3 notas da prova EB: ");
         for (int j = 0; j < 3; j++) {
-            scanf("%f", &EB[candidatos][j]);
+            scanf ("%f", &EB[candidatos][j]);
         }
 
         candidatos++;
