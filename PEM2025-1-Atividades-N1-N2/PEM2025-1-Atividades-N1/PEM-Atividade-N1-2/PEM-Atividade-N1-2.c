@@ -1,3 +1,15 @@
+/*-------------------------------------------------------*
+*                      FATEC Ipiranga                    *
+* Disciplina: Programação Estruturada e Modular          *
+*          Prof. Veríssimo                               *
+*--------------------------------------------------------*
+* Objetivo do Programa: Simular o processo de controle   *
+* de estoque e logística de movimentação de produtos     *
+* dentro de uma empresa atacadista na linguagem C.       *
+* Data - 13/03/2025                                      *
+* Autor: Letícia Almeida Silva                           *
+*--------------------------------------------------------*/
+
 #include <stdio.h>
 #include <string.h>
 #define RUAS 3
