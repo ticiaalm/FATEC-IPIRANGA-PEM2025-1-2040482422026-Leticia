@@ -1,3 +1,16 @@
+/*-------------------------------------------------------*
+*                      FATEC Ipiranga                    *
+* Disciplina: Programação Estruturada e Modular          *
+*          Prof. Veríssimo                               *
+*--------------------------------------------------------*
+* Objetivo do Programa: Refatoração do código em C       *
+* PEM-Atividade-N1-2, onde simular o controle de         *
+* armazenamento e retirada de produtos em um estoque     *
+* organizado por ruas e gôndolas.                        *
+* Data - 16/03/2025                                      *
+* Autor: Letícia Almeida Silva                           *
+*--------------------------------------------------------*/
+
 #include <stdio.h>
 #include <string.h>
 #define RUAS 3
