@@ -1,3 +1,15 @@
+/*-------------------------------------------------------*
+*                      FATEC Ipiranga                    *
+* Disciplina: Programação Estruturada e Modular          *
+*          Prof. Veríssimo                               *
+*--------------------------------------------------------*
+* Objetivo do Programa: listar recursivamente todos os   *
+* diretórios e subdiretórios a partir de um diretório    *
+* inicial.                                               *
+* Data - 04/04/2025                                      *
+* Autor: Letícia Almeida Silva                           *
+*--------------------------------------------------------*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <dirent.h>
